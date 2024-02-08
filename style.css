@@ -58,7 +58,7 @@ header h1 {
 
 .quiz-item h3:before {
   counter-increment: quiz-item;
-  content: counter(quiz-item);
+  content: counter (quiz-item);
   background-color: #475569;
   width: 28px;
   height: 28px;
