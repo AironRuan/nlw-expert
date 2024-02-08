@@ -104,8 +104,8 @@ input:checked {
 
 input:checked:before {
   content: "";
-  width: 10;
-  height: 10;
+  width: 10px;
+  height: 10px;
   background-color: #a3e635;
   border-radius: 50%;
 }
